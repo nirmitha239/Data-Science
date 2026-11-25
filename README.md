@@ -2,7 +2,8 @@
 
 A text-mining notebook that reads a WhatsApp chat export and produces a "Spotify Wrapped for your friend group" report: who spams, who ghosts, who is the night owl, which words the group is obsessed with, and a personality archetype for every member.
 
-> Add a screenshot of your final report here (required): `![GroupDNA report](report.png)`
+<img width="788" height="757" alt="Screenshot 2026-11-25 153215" src="https://github.com/user-attachments/assets/4e159a34-fddd-4373-a8c1-e44a87343c12" />
+: `![GroupDNA report](report.png)`
 
 ## Results on hostel_bois.txt
 3,174 messages, 6 members, 60 days. Rahul = THE SPAMMER, Priya = THE GROUP MOM, Neha = THE DRAMA QUEEN, Aman = THE NIGHT OWL (79.8% of messages between 23:00 and 04:59), Karan = THE STORYTELLER, Vikas = THE GHOST (silent on 44 of 60 days, longest silent streak 11 days).
